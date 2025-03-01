@@ -44,8 +44,19 @@ Certificados de Capacitación:
 
 * “DISEÑO DE LINEAS DE TRANSMISIÓN DE ENERGÍA ELECTRICA CON DLT-CAD” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque.
 
+Informatica
+======
+* Manejo a nivel intermedio de Solid Works. 
+* Manejo a nivel intermedio de Microsoft Excel. 
+* Manejo a nivel avanzado de Microsoft Excel. 
+* Manejo a nivel intermedio de AUTOCAD.
+* Manejo a nivel avanzado de Matlab.
+* Manejo a nivel intermedio de S10.
+* Manejo a nivel intermedio de Ms Proyect.
+* Manejo a nivel intermedio de DLTCAD.
 
-Work experience
+
+Experiencia Laboral
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University

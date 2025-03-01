@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 Perfil
 ======
 Ingeniero Mecánico Eléctrico titulado por la Universidad Católica Santo Toribio de Mogrovejo, con un destacado desempeño académico al pertenecer al quinto superior de su promoción. Profesional comprometido, responsable y orientado a resultados, con alta disposición para el aprendizaje continuo y colaboración efectiva en equipos multidisciplinarios. Motivado por el desarrollo personal y profesional

@@ -10,36 +10,9 @@ redirect_from:
 
 Ingeniero Mecánico Eléctrico titulado por la Universidad Católica Santo Toribio de Mogrovejo, con un destacado desempeño académico al pertenecer al quinto superior de su promoción. Profesional comprometido, responsable y orientado a resultados, con alta disposición para el aprendizaje continuo y colaboración efectiva en equipos multidisciplinarios. Motivado por el desarrollo personal y profesional
 
-Educación
+Trabajos
 ======
-•	Ingeniería Mecánica Eléctrica
-Universidad Católica Santo Toribio de Mogrovejo — Titulado y Colegiado (febrero 2020)
-
-Certificados de Capacitación:
-======
-“Programación web con php y mysql - nivel I” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque.
-
-“Programación web con php y mysql - nivel II” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque.
-
-“PROTECCIONES DE INSTALACIONES INTERIORES ELECTRICAS EN BAJA TENSIÓN” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque.
-
-“Seminario Práctico de Automatización Industrial” en Universidad Católica Santo Toribio de Mogrovejo, Facultad de Ingeniería. 
-
-“Excel Intermedio 2013” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque. 
-
-“Excel Avanzado 2013” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque. 
-
-“Curso de capacitación programación en Matlab” en el Colegio de Matemáticos del Perú, consejo departamental de Lambayeque.
-
-“Curso de capacitación Matlab” en el Colegio de Matemáticos del Perú, consejo departamental de Lambayeque.
-
-“SEGURIDAD Y SALUD OCUPACIONAL Y MEDIO AMBIENTE SSOMA” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque.
-
-“COSTOS Y PRESUPUESTOS CON S10” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque.
-
-“PLANIFICACIÓN Y PROGRAMACIÓN DE PROYECTOS CON MS PROJECT” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque.
-
-“DISEÑO DE LINEAS DE TRANSMISIÓN DE ENERGÍA ELECTRICA CON DLT-CAD” en Colegio de Ingenieros del Perú, Consejo Departamental de Lambayeque.
+•	Folders
 
 
 Site-wide configuration

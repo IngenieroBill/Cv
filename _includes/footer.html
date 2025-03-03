@@ -1,41 +1,65 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+{% if site.author.github or site.author.linkedin or site.author.twitter or site.author.youtube or site.author.instagram or site.atom_feed.hide != true %}
 <div class="page__footer">
   <div class="page__footer-follow">
     <ul class="social-icons">
       {% if site.data.ui-text[site.locale].follow_label %}
         <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
       {% endif %}
-      
+
       {% if site.author.github %}
         <li>
           <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-github"></i> GitHub
+            <i class="fab fa-github" aria-hidden="true"></i> GitHub
           </a>
         </li>
       {% endif %}
-      
+
       {% if site.author.linkedin %}
         <li>
           <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-linkedin"></i> LinkedIn
+            <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
           </a>
         </li>
       {% endif %}
-      
+
       {% if site.author.twitter %}
         <li>
           <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-twitter"></i> Twitter
+            <i class="fab fa-twitter" aria-hidden="true"></i> Twitter
           </a>
         </li>
       {% endif %}
-      
+
+      {% if site.author.youtube %}
+        <li>
+          <a href="https://youtube.com/{{ site.author.youtube }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-youtube" aria-hidden="true"></i> YouTube
+          </a>
+        </li>
+      {% endif %}
+
+      {% if site.author.instagram %}
+        <li>
+          <a href="https://instagram.com/{{ site.author.instagram }}" target="_blank" rel="noopener noreferrer">
+            <i class="fab fa-instagram" aria-hidden="true"></i> Instagram
+          </a>
+        </li>
+      {% endif %}
+
+      {% if site.author.email %}
+        <li>
+          <a href="mailto:{{ site.author.email }}">
+            <i class="fa fa-envelope" aria-hidden="true"></i> Contacto
+          </a>
+        </li>
+      {% endif %}
+
       {% if site.atom_feed.hide != true %}
         <li>
           <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" target="_blank" rel="noopener noreferrer">
-            <i class="fa fa-rss-square"></i> {{ site.data.ui-text[site.locale].feed_label | default: "RSS Feed" }}
+            <i class="fa fa-rss-square" aria-hidden="true"></i> RSS Feed
           </a>
         </li>
       {% endif %}
@@ -48,4 +72,4 @@
     <p>Última actualización: {{ "now" | date: '%Y-%m-%d' }}</p>
   </div>
 </div>
-
+{% endif %}

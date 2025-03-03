@@ -2,56 +2,15 @@
 
 {% if site.author.github or site.author.linkedin or site.author.twitter or site.author.youtube or site.author.instagram or site.atom_feed.hide != true %}
 <div class="page__footer">
-  <div class="page__footer-follow">
-    <ul class="social-icons">
-      
-      {% if site.author.github %}
-        <li>
-          <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-github" aria-hidden="true"></i> GitHub
-          </a>
-        </li>
-      {% endif %}
-
-      {% if site.author.linkedin %}
-        <li>
-          <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
-          </a>
-        </li>
-      {% endif %}
-
-      {% if site.author.twitter %}
-        <li>
-          <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-twitter" aria-hidden="true"></i> Twitter
-          </a>
-        </li>
-      {% endif %}
-
-      {% if site.author.youtube %}
-        <li>
-          <a href="https://youtube.com/{{ site.author.youtube }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-youtube" aria-hidden="true"></i> YouTube
-          </a>
-        </li>
-      {% endif %}
-
-      {% if site.author.instagram %}
-        <li>
-          <a href="https://instagram.com/{{ site.author.instagram }}" target="_blank" rel="noopener noreferrer">
-            <i class="fab fa-instagram" aria-hidden="true"></i> Instagram
-          </a>
-        </li>
-      {% endif %}
-   
-    </ul>
+  <div class="page__footer" style="text-align: center; font-size: 14px;">
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} | Última actualización: {{ "now" | date: '%Y-%m-%d' }} |  
+    {% if site.author.github %} <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> GitHub</a> | {% endif %}
+    {% if site.author.linkedin %} <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> LinkedIn</a> | {% endif %}
+    {% if site.author.twitter %} <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i> Twitter</a> | {% endif %}
+    {% if site.author.youtube %} <a href="https://youtube.com/{{ site.author.youtube }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i> YouTube</a> | {% endif %}
+    {% if site.author.instagram %} <a href="https://instagram.com/{{ site.author.instagram }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i> Instagram</a> {% endif %}
+    </p>
   </div>
-
-  <div class="page__footer-copyright">
-    <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</p>
-
-    <p>Última actualización: {{ "now" | date: '%Y-%m-%d' }}</p>
-  </div>
+  
 </div>
 {% endif %}

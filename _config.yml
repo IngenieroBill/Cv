@@ -23,9 +23,9 @@ repository               : "repository: IngenieroBill/Cv"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Bill Ruiz Pinto"
+  name             : "Ing. Bill Ruiz Pinto"
   pronouns         : # example: "he/him"
-  bio              : "Hola, mi nombre es Bill Edson"
+  bio              : "Ingeniero Mecánico Electricista egresado de la USAT, Perú. En 2020, fue asistente de supervisión en mantenimiento eléctrico con el Ing. Hugo Mundaca Guerra. Cuenta con experiencia en mantenimiento de subestaciones, grupos electrógenos y sistemas eléctricos, destacando su labor en la Clínica del Pacífico."
   location         : "Peruano"
   employer         : "Usat"
   uri              : # URL

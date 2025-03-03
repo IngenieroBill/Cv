@@ -8,9 +8,13 @@
     {% if site.author.linkedin %} <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-linkedin"></i> LinkedIn</a> | {% endif %}
     {% if site.author.twitter %} <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i> Twitter</a> | {% endif %}
     {% if site.author.youtube %} <a href="https://youtube.com/{{ site.author.youtube }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i> YouTube</a> | {% endif %}
-    {% if site.author.instagram %} <a href="https://instagram.com/{{ site.author.instagram }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i> Instagram</a> {% endif %}
+    {% if site.author.instagram %} <a href="https://instagram.com/{{ site.author.instagram }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i> Instagram</a> | {% endif %}
+    {% if site.author.whatsapp %} 
+      <a href="https://wa.me/{{ site.author.whatsapp }}" target="_blank" rel="noopener noreferrer">
+        <i class="fab fa-whatsapp"></i> WhatsApp
+      </a>
+    {% endif %}
     </p>
   </div>
-  
-</div>
+  </div>
 {% endif %}

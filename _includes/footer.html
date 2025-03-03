@@ -47,28 +47,13 @@
           </a>
         </li>
       {% endif %}
-
-      {% if site.author.email %}
-        <li>
-          <a href="mailto:{{ site.author.email }}">
-            <i class="fa fa-envelope" aria-hidden="true"></i> Contacto
-          </a>
-        </li>
-      {% endif %}
-
-      {% if site.atom_feed.hide != true %}
-        <li>
-          <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" target="_blank" rel="noopener noreferrer">
-            <i class="fa fa-rss-square" aria-hidden="true"></i> RSS Feed
-          </a>
-        </li>
-      {% endif %}
+   
     </ul>
   </div>
 
   <div class="page__footer-copyright">
     <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.</p>
-    <p>Creado con ❤️ y <a href="http://jekyllrb.com" target="_blank" rel="noopener noreferrer">Jekyll</a>.</p>
+
     <p>Última actualización: {{ "now" | date: '%Y-%m-%d' }}</p>
   </div>
 </div>

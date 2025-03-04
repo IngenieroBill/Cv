@@ -7,26 +7,22 @@ redirect_from:
   - /about.html
 ---
 
+## SolidWorks  
+🔹 Modelado y simulación de piezas mecánicas en SolidWorks.  
+🔹 Ejemplos de ensamblajes y análisis de resistencia.  
 
+## Excel  
+📊 Automatización de hojas de cálculo con macros y funciones avanzadas.  
+📈 Análisis de datos y gráficos dinámicos.  
 
-SolidWorks
-======
-Aqui se presenta el Trabajo de Solidwords
+## Matlab  
+🖥️ Simulación y modelado matemático.  
+🔬 Análisis de señales y sistemas dinámicos.  
 
+## Etabs  
+🏗️ Diseño estructural y análisis de edificaciones.  
+📐 Modelado de estructuras con cargas sísmicas y de viento.  
 
-Excel
-------
-Aqui se presentara el trabajo de excel 
-
-Matlab
-------
-Trabajo de Matlab
-
-**Etabs**
-
-The repository includes [a set of Jupyter notebooks].
-
-
-For more info
-------
-More info about configuring Academic 
+## Más información  
+Para más detalles sobre la configuración de este portafolio, visita:  
+[Configuración de Academic](#)  

@@ -1,13 +1,11 @@
 ---
 permalink: /Emprendimiento/
-title: "Emprendimiento"
+title: "Bienvenido a mi emprendimiento"
 author_profile: true
 redirect_from: 
   - /md/
   - /Emprendimiento.html
 --- 
-
-## Bienvenido a mi emprendimiento
 
 ### Descubre nuestra colección exclusiva
 

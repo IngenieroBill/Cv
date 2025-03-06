@@ -23,8 +23,6 @@ Te ofrecemos una variedad de carteras elegantes y modernas para cada ocasión. �
 
 Mira nuestro video para conocer más sobre nuestros productos:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x5at9kpg75c" frameborder="0" allowfullscreen></iframe>
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 200.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -32,7 +30,7 @@ Mira nuestro video para conocer más sobre nuestros productos:
     src="https://www.canva.com/design/DAGg07SmGDI/4VY0x94fVQV4DRxc9pUsiA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGg07SmGDI&#x2F;4VY0x94fVQV4DRxc9pUsiA&#x2F;view?utm_content=DAGg07SmGDI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Gracias Mamá: Un Amor que Nunca se Apaga</a> de Bill Ruiz
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGg07SmGDI&#x2F;4VY0x94fVQV4DRxc9pUsiA&#x2F;view?utm_content=DAGg07SmGDI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 ### Contáctanos
 
 📍 Ubicación: Tu ciudad, País  

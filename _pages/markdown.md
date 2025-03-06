@@ -7,7 +7,7 @@ redirect_from:
   - /Emprendimiento.html
 --- 
 
-## Bienvenido a mi emprendimiento de carteras 
+## Bienvenido a mi emprendimiento
 
 ### Descubre nuestra colección exclusiva
 
@@ -26,9 +26,8 @@ Te ofrecemos una variedad de carteras elegantes y modernas para cada ocasión. �
 
 ### Contáctanos
 
-📍 Ubicación: Tu ciudad, País  
-📞 Teléfono: +123 456 789  
-📩 Email: contacto@tucorreo.com  
-📸 Síguenos en Instagram: [@tuemprendimiento](https://www.instagram.com/tuemprendimiento)
+📍 Ubicación: Chiclayo, Perú  
+📞 Teléfono: +51 914784220  
+📩 Email: ingenierobillruizp@gmail.com 
 
 ¡Gracias por tu apoyo! 🎉

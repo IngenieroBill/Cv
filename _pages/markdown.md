@@ -15,14 +15,6 @@ Te ofrecemos una variedad de carteras elegantes y modernas para cada ocasión. �
 
 ### Galería de productos
 
-![Cartera elegante](images/cartera1.jpg)
-![Cartera casual](images/cartera2.jpg)
-![Cartera de lujo](images/cartera3.jpg)
-
-### Video promocional
-
-Mira nuestro video para conocer más sobre nuestros productos:
-
 <div style="position: relative; width: 100%; height: 0; padding-top: 200.0000%;
  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
  border-radius: 8px; will-change: transform;">
@@ -31,6 +23,7 @@ Mira nuestro video para conocer más sobre nuestros productos:
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGg07SmGDI&#x2F;4VY0x94fVQV4DRxc9pUsiA&#x2F;view?utm_content=DAGg07SmGDI&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
 ### Contáctanos
 
 📍 Ubicación: Tu ciudad, País  
